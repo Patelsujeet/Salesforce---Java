@@ -32,9 +32,11 @@ Prerequiste
        Note: All jar and enterprise.wsdl.xml file must be in same folder
 
     3) Run the below given command in your cmd.
-``` java -classpath force-wsc-48.0.0.jar;tools.jar;antlr-4.7.2-complete.jar com.sforce.ws.tools.wsdlc enterprise.jar ```
-
-
-    4) 
+``` 
+java -classpath force-wsc-48.0.0.jar;tools.jar;antlr-4.7.2-complete.jar com.sforce.ws.tools.wsdlc enterprise.jar
+```
+    ![Screenshot_2](https://github.com/Patelsujeet/Salesforce---Java/blob/master/Screenshot_2.png)
+   
+   4) 
         
         
