@@ -38,6 +38,16 @@ java -classpath force-wsc-48.0.0.jar;tools.jar;antlr-4.7.2-complete.jar com.sfor
     
    ![Screenshot_2](https://github.com/Patelsujeet/Salesforce---Java/blob/master/Screenshot_2.png)
    
-     4) 
+     4) after running the above command your enterprise.jar file will be automatically create and saved in same location.
+      folder hierarchy:
+       > WSC
+         |
+         |__force-wsc-48.0.0.jar (Download from given link)
+         |__tools.jar (Copy from Java/jdk.xx.yy/lib/tools.jar)       
+         |__antlr-4.7.2-complete.jar
+         |__enterprise.wsdl.xml
+         |__enterprise.jar
+  
+  #### To Run the program use IDE either Netbeans of Eclipse
         
         
